@@ -13,16 +13,16 @@
     "eventDisabled": [
         "join.js"
     ],
-    "EMAIL": "",
-    "PASSWORD": "",
+    "EMAIL": "zeshankhan61892@gmail.com",
+    "PASSWORD": "DEADLY@$&1",
     "OTPKEY": "",
-    "BOTNAME": "Rizzu",
+    "BOTNAME": "Cartoon",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100040426712109"
+        "61560963940412 "
     ],
     "NDH": [
-        "100037743553265"
+        "61560963940412 "
     ],
     "DATABASE": {
         "sqlite": {
